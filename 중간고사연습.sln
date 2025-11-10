@@ -15,9 +15,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "콘솔에입력해파일로
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "응용문제", "응용문제\응용문제.vcxproj", "{9C8FFEF7-44F3-445B-B769-0EF4F60DE178}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "글씨 바꾸기", "글씨 바꾸기\글씨 바꾸기.vcxproj", "{BBB376DC-BC8B-47D1-956B-2026C232596A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "응용+글씨 바꾸기", "글씨 바꾸기\글씨 바꾸기.vcxproj", "{BBB376DC-BC8B-47D1-956B-2026C232596A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "파일에서 불러와 글씨 바꾸는 연습", "파일에서 불러와 글씨 바꾸는 연습\파일에서 불러와 글씨 바꾸는 연습.vcxproj", "{3D5C1D0B-5C94-43CA-AAF5-6843C69AF963}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project2", "Project2\Project2.vcxproj", "{536AC022-3AFB-468E-8880-B3A66D43089D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,14 @@ Global
 		{3D5C1D0B-5C94-43CA-AAF5-6843C69AF963}.Release|x64.Build.0 = Release|x64
 		{3D5C1D0B-5C94-43CA-AAF5-6843C69AF963}.Release|x86.ActiveCfg = Release|Win32
 		{3D5C1D0B-5C94-43CA-AAF5-6843C69AF963}.Release|x86.Build.0 = Release|Win32
+		{536AC022-3AFB-468E-8880-B3A66D43089D}.Debug|x64.ActiveCfg = Debug|x64
+		{536AC022-3AFB-468E-8880-B3A66D43089D}.Debug|x64.Build.0 = Debug|x64
+		{536AC022-3AFB-468E-8880-B3A66D43089D}.Debug|x86.ActiveCfg = Debug|Win32
+		{536AC022-3AFB-468E-8880-B3A66D43089D}.Debug|x86.Build.0 = Debug|Win32
+		{536AC022-3AFB-468E-8880-B3A66D43089D}.Release|x64.ActiveCfg = Release|x64
+		{536AC022-3AFB-468E-8880-B3A66D43089D}.Release|x64.Build.0 = Release|x64
+		{536AC022-3AFB-468E-8880-B3A66D43089D}.Release|x86.ActiveCfg = Release|Win32
+		{536AC022-3AFB-468E-8880-B3A66D43089D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

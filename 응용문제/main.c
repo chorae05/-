@@ -31,6 +31,10 @@ int main() {
     }
     printf("파일 열기 성공!!\n");
 
+
+    // 첫 줄(헤더) 건너뛰기
+    fgets(line, sizeof(line), fp1);
+
     while (fgets(line, sizeof(line), fp1) && count < 10) {
 
         char* t, * n;
