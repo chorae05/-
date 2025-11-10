@@ -17,6 +17,7 @@ int main() {
     errno_t err;
 
 
+
     printf("ÇÐ¹ø: ");
     scanf_s("%d", &id);
 
