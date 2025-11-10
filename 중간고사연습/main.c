@@ -16,6 +16,7 @@ int main() {
     int count = 0;
     errno_t err;
 
+
     printf("ÇÐ¹ø: ");
     scanf_s("%d", &id);
 
