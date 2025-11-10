@@ -103,7 +103,7 @@ int main() {
         count33++;
     }
     fclose(fp3);
-
+    //Æò±Õ³»´Â ¹ý
     for (int i = 0; i < count; i++) {
         s[i].avg = (s[i].kor + s[i].eng + s[i].math) / 3.0;
     }
